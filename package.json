@@ -2,12 +2,12 @@
   "name": "spotify-clone",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://AsDazai.github.io/Spotify-Clone",  // This must be correct
+  "homepage": "https://AsDazai.github.io/Spotify-Clone",  
   "scripts": {
-    "predeploy": "npm run build",  // Run build before deploying
-    "deploy": "gh-pages -d dist",  // Push the build output to gh-pages
-    "dev": "vite",  // Start Vite in dev mode
-    "build": "vite build",  // Build for production
+    "predeploy": "npm run build",  
+    "deploy": "gh-pages -d dist",
+    "dev": "vite", 
+    "build": "vite build",  
     "lint": "eslint .",
     "preview": "vite preview"
   },
