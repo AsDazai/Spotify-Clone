@@ -36,6 +36,3 @@
 }
 
 
-export default {
-  base: '/Spotify-Clone/',  // Adjust this according to your repo name
-}
